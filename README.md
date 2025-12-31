@@ -52,3 +52,9 @@ az network nsg rule create \
 - How to use the `az` CLI tool to fully deploy infrastructure
 - Importance of security group rules when enabling SSH access
 - How to verify a VM is running via CLI and view IP addresses
+
+### Final CLI Command
+![Final CLI](./screenshots/final-cli-command.PNG)
+
+### Azure Portal VM Screenshot
+![Portal Screenshot](./screenshots/azure-portal-vm.JPG)
